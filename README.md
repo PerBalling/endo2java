@@ -1,5 +1,10 @@
 [![Build Status](https://travis-ci.org/MoOmEeN/endo2java.svg?branch=master)](https://travis-ci.org/MoOmEeN/endo2java)
 
+Endomondo
+===
+In October 2020, Under Armour announced that Endomondo would be shutting down.<br>
+Try MapMyRun: https://www.mapmyrun.com/
+
 Endo2Java
 =========================
 
